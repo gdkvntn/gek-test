@@ -1,0 +1,22 @@
+.container {
+  max-width: 800px;
+
+  box-sizing: border-box;
+}
+.container ul {
+  padding: 0;
+}
+
+.stats {
+  display: flex;
+  gap: 20px;
+  align-items: flex-end;
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+
+.statsItem {
+  flex-basis: 33.3%;
+  overflow: hidden;
+  cursor: pointer;
+}
