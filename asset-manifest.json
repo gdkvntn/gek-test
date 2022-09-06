@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gek-test/static/css/main.c7d7b765.css",
+    "main.js": "/gek-test/static/js/main.8d60a8dd.js",
+    "static/js/787.8b6611ef.chunk.js": "/gek-test/static/js/787.8b6611ef.chunk.js",
+    "index.html": "/gek-test/index.html",
+    "main.c7d7b765.css.map": "/gek-test/static/css/main.c7d7b765.css.map",
+    "main.8d60a8dd.js.map": "/gek-test/static/js/main.8d60a8dd.js.map",
+    "787.8b6611ef.chunk.js.map": "/gek-test/static/js/787.8b6611ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d7b765.css",
+    "static/js/main.8d60a8dd.js"
+  ]
+}
